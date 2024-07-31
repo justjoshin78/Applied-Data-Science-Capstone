@@ -1,4 +1,4 @@
-# dashboard application
+# Applied Data Science Capstone submission
 
 ## assessment
 
